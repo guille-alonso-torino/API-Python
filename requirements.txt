@@ -1,0 +1,2 @@
+Flask==2.0.3
+mysql-connector-python==8.0.33  # Usa la versión más reciente o la que prefieras
